@@ -1,5 +1,9 @@
 # music-handaduke
 
+アルバム「はんだづけはたのしいよ」
+
+https://github.com/code4fukui/music-handaduke
+
 ## how to download playlist
 
 ```sh
