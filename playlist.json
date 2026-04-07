@@ -4098,10 +4098,1290 @@
         }
       },
       "relative_index": 32
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "はんだづけはたのしいよ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "d33e669d-9149-4e0b-8e0b-c093bc361091",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/d33e669d-9149-4e0b-8e0b-c093bc361091.mp3",
+        "image_url": "image/image_d33e669d-9149-4e0b-8e0b-c093bc361091.jpeg",
+        "image_large_url": "image_large/image_large_d33e669d-9149-4e0b-8e0b-c093bc361091.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "metal, Fast, triumphant power metal; double-kick barrage, bright twin guitars, soaring male vocals. Verse riffs are tight and galloping, chorus explodes with stacked harmonies and big open chords. Brief neoclassical guitar break before final chorus, bass locked with drums for a relentless drive, vocals riding high and heroic., power metal",
+          "prompt": "[Verse 1]\\n朝焼け前の作業台\\nこて先 光る 目が覚める\\n細いパターン 迷路みたい\\n息を止めて 点をねらう\\n\\n焼けたフラックス 甘い匂い\\nハンダの粒が 星みたい\\n一瞬だけの 溶ける世界\\nつながる瞬間 ここに命が\\n\\n[Chorus]\\nはんだづけは たのしいよ\\n火花みたいな この集中\\n指先だけの 冒険者\\n小さな銀河を いま結ぶ\\nはんだづけは たのしいよ\\nミスしても またやり直せる\\nこてを握る この手が\\nあしたのひらめき つなげてく\\n\\n[Verse 2]\\nブリッジ作って ショートして\\n「やっちゃったな」と 笑いとばす\\n吸い取り線で やり直し\\nちょっと上手くなった気がする (おう！)\\n\\n基板の上の ちいさな街\\n抵抗たちが 並ぶ通り\\n目には見えない その向こう\\n夢のルートを いま描く\\n\\n[Chorus]\\nはんだづけは たのしいよ\\n火花みたいな この集中\\n指先だけの 冒険者\\n小さな銀河を いま結ぶ\\nはんだづけは たのしいよ\\nミスしても またやり直せる\\nこてを握る この手が\\nあしたのひらめき つなげてく\\n\\n[Bridge]\\n熱くなった こて先みたいに\\n胸のなかも ちょっとアツい\\nうまくいかない 日があっても\\nその一滴で 道がひらく (ウォーオー！)\\n\\n[Chorus]\\nはんだづけは たのしいよ\\n火花みたいな この集中\\n指先だけの 冒険者\\n小さな銀河を いま結ぶ\\nはんだづけは たのしいよ\\n今日つないだ この回路が\\nどこか遠くの 誰かまで\\nひかり届ける と信じてる",
+          "gpt_description_prompt": "はんだづけはたのしいよ,power metal",
+          "type": "gen",
+          "duration": 201,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-07T22:03:46.489Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "power metal, metal, neoclassical metal",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 33
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "はんだづけはたのしいよ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "fa7e3ee1-8496-40c6-ab62-8ad78661d7b9",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/fa7e3ee1-8496-40c6-ab62-8ad78661d7b9.mp3",
+        "image_url": "image/image_fa7e3ee1-8496-40c6-ab62-8ad78661d7b9.jpeg",
+        "image_large_url": "image_large/image_large_fa7e3ee1-8496-40c6-ab62-8ad78661d7b9.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "metal, Fast, triumphant power metal; double-kick barrage, bright twin guitars, soaring male vocals. Verse riffs are tight and galloping, chorus explodes with stacked harmonies and big open chords. Brief neoclassical guitar break before final chorus, bass locked with drums for a relentless drive, vocals riding high and heroic., power metal",
+          "prompt": "[Verse 1]\\n朝焼け前の作業台\\nこて先 光る 目が覚める\\n細いパターン 迷路みたい\\n息を止めて 点をねらう\\n\\n焼けたフラックス 甘い匂い\\nハンダの粒が 星みたい\\n一瞬だけの 溶ける世界\\nつながる瞬間 ここに命が\\n\\n[Chorus]\\nはんだづけは たのしいよ\\n火花みたいな この集中\\n指先だけの 冒険者\\n小さな銀河を いま結ぶ\\nはんだづけは たのしいよ\\nミスしても またやり直せる\\nこてを握る この手が\\nあしたのひらめき つなげてく\\n\\n[Verse 2]\\nブリッジ作って ショートして\\n「やっちゃったな」と 笑いとばす\\n吸い取り線で やり直し\\nちょっと上手くなった気がする (おう！)\\n\\n基板の上の ちいさな街\\n抵抗たちが 並ぶ通り\\n目には見えない その向こう\\n夢のルートを いま描く\\n\\n[Chorus]\\nはんだづけは たのしいよ\\n火花みたいな この集中\\n指先だけの 冒険者\\n小さな銀河を いま結ぶ\\nはんだづけは たのしいよ\\nミスしても またやり直せる\\nこてを握る この手が\\nあしたのひらめき つなげてく\\n\\n[Bridge]\\n熱くなった こて先みたいに\\n胸のなかも ちょっとアツい\\nうまくいかない 日があっても\\nその一滴で 道がひらく (ウォーオー！)\\n\\n[Chorus]\\nはんだづけは たのしいよ\\n火花みたいな この集中\\n指先だけの 冒険者\\n小さな銀河を いま結ぶ\\nはんだづけは たのしいよ\\n今日つないだ この回路が\\nどこか遠くの 誰かまで\\nひかり届ける と信じてる",
+          "gpt_description_prompt": "はんだづけはたのしいよ,power metal",
+          "type": "gen",
+          "duration": 196.8,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-07T22:03:46.488Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "power metal, metal, neoclassical metal",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 34
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "はんだづけはたのしいよ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "143d8be8-c11b-430d-9774-90ec27243b4d",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/143d8be8-c11b-430d-9774-90ec27243b4d.mp3",
+        "image_url": "image/image_143d8be8-c11b-430d-9774-90ec27243b4d.jpeg",
+        "image_large_url": "image_large/image_large_143d8be8-c11b-430d-9774-90ec27243b4d.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Big band swing with bright brass hits and walking upright bass; male vocals leaning playful and conversational. Call-and-response sax punches around the hook, drums using crisp ride and snare setups. Short shout-style backing vocals on the chorus, with a middle section that drops to just piano comping before the full ensemble kicks back in for a jubilant final refrain., big band",
+          "prompt": "[Verse 1]\\n小さな机　夜ふけの部屋で\\n基板の上に　部品がならぶ\\nルーペごしに　世界がひらく\\nちいさな火花　こころがさわぐ\\n\\n[Chorus]\\nはんだづけは　たのしいよ\\nツンとしたにおい　胸がおどる\\nピカピカ　銀の道ができる\\nつながるたびに　笑ってしまう (ヘイ！)\\nはんだづけは　たのしいよ\\nゆっくりでいいさ　あわてないで\\n手さきひとつで　夢がうごく\\nこの手のなかで　光りだす\\n\\n[Verse 2]\\nちょっとやけど　してしまったけど\\nふーっとふいて　ばんそうこうはる\\nまちがえた線　ほどいてまたね\\nやりなおすたび　うまくなってく\\n\\n[Chorus]\\nはんだづけは　たのしいよ\\nツンとしたにおい　胸がおどる\\nピカピカ　銀の道ができる\\nつながるたびに　笑ってしまう (ワオ！)\\nはんだづけは　たのしいよ\\nゆっくりでいいさ　あわてないで\\n手さきひとつで　夢がうごく\\nこの手のなかで　光りだす",
+          "gpt_description_prompt": "はんだづけはたのしいよ,big band",
+          "type": "gen",
+          "duration": 154.88,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-07T21:57:39.439Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "big band, swing, jazz",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 35
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "はんだづけはたのしいよ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "2b4a8825-aa24-411e-bc5c-901674adb349",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/2b4a8825-aa24-411e-bc5c-901674adb349.mp3",
+        "image_url": "image/image_2b4a8825-aa24-411e-bc5c-901674adb349.jpeg",
+        "image_large_url": "image_large/image_large_2b4a8825-aa24-411e-bc5c-901674adb349.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Big band swing with bright brass hits and walking upright bass; male vocals leaning playful and conversational. Call-and-response sax punches around the hook, drums using crisp ride and snare setups. Short shout-style backing vocals on the chorus, with a middle section that drops to just piano comping before the full ensemble kicks back in for a jubilant final refrain., big band",
+          "prompt": "[Verse 1]\\n小さな机　夜ふけの部屋で\\n基板の上に　部品がならぶ\\nルーペごしに　世界がひらく\\nちいさな火花　こころがさわぐ\\n\\n[Chorus]\\nはんだづけは　たのしいよ\\nツンとしたにおい　胸がおどる\\nピカピカ　銀の道ができる\\nつながるたびに　笑ってしまう (ヘイ！)\\nはんだづけは　たのしいよ\\nゆっくりでいいさ　あわてないで\\n手さきひとつで　夢がうごく\\nこの手のなかで　光りだす\\n\\n[Verse 2]\\nちょっとやけど　してしまったけど\\nふーっとふいて　ばんそうこうはる\\nまちがえた線　ほどいてまたね\\nやりなおすたび　うまくなってく\\n\\n[Chorus]\\nはんだづけは　たのしいよ\\nツンとしたにおい　胸がおどる\\nピカピカ　銀の道ができる\\nつながるたびに　笑ってしまう (ワオ！)\\nはんだづけは　たのしいよ\\nゆっくりでいいさ　あわてないで\\n手さきひとつで　夢がうごく\\nこの手のなかで　光りだす",
+          "gpt_description_prompt": "はんだづけはたのしいよ,big band",
+          "type": "gen",
+          "duration": 154.6,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-07T21:57:39.439Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "big band, swing, jazz",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 36
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "はんだづけはたのしいよ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "ad7cfd8c-dae6-40d6-8669-10a6dc613093",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/ad7cfd8c-dae6-40d6-8669-10a6dc613093.mp3",
+        "image_url": "image/image_ad7cfd8c-dae6-40d6-8669-10a6dc613093.jpeg",
+        "image_large_url": "image_large/image_large_ad7cfd8c-dae6-40d6-8669-10a6dc613093.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "funk, Bouncy Japanese city-pop funk with tight rhythm guitar, rubbery bass, and live drums; male vocals playful on the verses, chorus lifts with bright synth chords and stacked call‑and‑response hooks; short synth solo drop before the last hook, mix crisp and danceable",
+          "prompt": "[Verse 1]\\n朝イチで机をひらいて\\nこて先　そっとあたためてく\\nちいさなパーツたち並べて\\n「今日はうまくいきそうだ」\\n\\nさきっぽできらっと光るスズ\\n深呼吸ひとつきめてから\\n基板の道をなぞるたび\\n胸のリズムがはずむんだ (hey!)\\n\\n[Chorus]\\nはんだづけはたのしいよ\\nちいさな世界　つないでく\\nチリチリって　音がしたら\\n夢がひとつ　動きだす\\n\\nはんだづけはたのしいよ\\n失敗だって　笑いあおう\\n焦げたあとも　宝ものさ\\n次のひらめき　呼んでいる\\n\\n[Verse 2]\\nはじめは手もとがふるえて\\nブリッジばかりつくってたけど\\nやりなおすたびにわかってく\\nちょうどいい距離と温度\\n\\n友だちが「なにしてるの？」って\\nのぞきこんで目を丸くする\\n「ここがプラスで　ここマイナス」\\n説明してたら時間忘れる (oh yeah)\\n\\n[Chorus]\\nはんだづけはたのしいよ\\nちいさな世界　つないでく\\nチリチリって　音がしたら\\n夢がひとつ　動きだす\\n\\nはんだづけはたのしいよ\\n手先までも　うたいだす\\n線と線が　出会うたびに\\nまだ知らない光がつく\\n\\n[Bridge]\\nうまくいかない日もあるけど\\nこてをにぎれば　また会える\\n「もう一回だけ」ってくりかえす\\nその時間がいちばん好き\\n\\n[Chorus]\\nはんだづけはたのしいよ\\nちいさな世界　つないでく\\nチリチリって　音がしたら\\n胸のもやも　とけていく\\n\\nはんだづけはたのしいよ\\n今日もまた　夜がふける\\nできあがった　ひとつひとつが\\nひみつの合図で光るんだ (hey!)",
+          "gpt_description_prompt": "はんだづけはたのしいよ,funk",
+          "type": "gen",
+          "duration": 184.8,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-07T21:57:18.227Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "funk, city-pop, Japanese pop",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 37
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "はんだづけはたのしいよ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "8d260caf-6dc2-4530-b930-fa6de20383de",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/8d260caf-6dc2-4530-b930-fa6de20383de.mp3",
+        "image_url": "image/image_8d260caf-6dc2-4530-b930-fa6de20383de.jpeg",
+        "image_large_url": "image_large/image_large_8d260caf-6dc2-4530-b930-fa6de20383de.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "funk, Bouncy Japanese city-pop funk with tight rhythm guitar, rubbery bass, and live drums; male vocals playful on the verses, chorus lifts with bright synth chords and stacked call‑and‑response hooks; short synth solo drop before the last hook, mix crisp and danceable",
+          "prompt": "[Verse 1]\\n朝イチで机をひらいて\\nこて先　そっとあたためてく\\nちいさなパーツたち並べて\\n「今日はうまくいきそうだ」\\n\\nさきっぽできらっと光るスズ\\n深呼吸ひとつきめてから\\n基板の道をなぞるたび\\n胸のリズムがはずむんだ (hey!)\\n\\n[Chorus]\\nはんだづけはたのしいよ\\nちいさな世界　つないでく\\nチリチリって　音がしたら\\n夢がひとつ　動きだす\\n\\nはんだづけはたのしいよ\\n失敗だって　笑いあおう\\n焦げたあとも　宝ものさ\\n次のひらめき　呼んでいる\\n\\n[Verse 2]\\nはじめは手もとがふるえて\\nブリッジばかりつくってたけど\\nやりなおすたびにわかってく\\nちょうどいい距離と温度\\n\\n友だちが「なにしてるの？」って\\nのぞきこんで目を丸くする\\n「ここがプラスで　ここマイナス」\\n説明してたら時間忘れる (oh yeah)\\n\\n[Chorus]\\nはんだづけはたのしいよ\\nちいさな世界　つないでく\\nチリチリって　音がしたら\\n夢がひとつ　動きだす\\n\\nはんだづけはたのしいよ\\n手先までも　うたいだす\\n線と線が　出会うたびに\\nまだ知らない光がつく\\n\\n[Bridge]\\nうまくいかない日もあるけど\\nこてをにぎれば　また会える\\n「もう一回だけ」ってくりかえす\\nその時間がいちばん好き\\n\\n[Chorus]\\nはんだづけはたのしいよ\\nちいさな世界　つないでく\\nチリチリって　音がしたら\\n胸のもやも　とけていく\\n\\nはんだづけはたのしいよ\\n今日もまた　夜がふける\\nできあがった　ひとつひとつが\\nひみつの合図で光るんだ (hey!)",
+          "gpt_description_prompt": "はんだづけはたのしいよ,funk",
+          "type": "gen",
+          "duration": 204.48,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-07T21:57:18.227Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "funk, city-pop, Japanese pop",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 38
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "はんだづけはたのしいよ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "706821e1-5c27-41f5-a60b-65f16c3bcec4",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/706821e1-5c27-41f5-a60b-65f16c3bcec4.mp3",
+        "image_url": "image/image_706821e1-5c27-41f5-a60b-65f16c3bcec4.jpeg",
+        "image_large_url": "image_large/image_large_706821e1-5c27-41f5-a60b-65f16c3bcec4.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Warm piano ballad, gentle swing feel, male vocals. Simple close-mic upright piano with soft pedal and subtle room reverb; verses stay intimate and conversational, chorus grows with richer chords and delicate string pad. Light vocal stacks on the hook for a cozy, singalong feel, ending on a tender rubato slowdown., ballad",
+          "prompt": "[Verse 1]\\n小さな机の　はしっこで\\nこぼれたハンダが　丸くなる\\n指先すこし　こげたけど\\nなんだか今日は　うまくいきそうだ\\n\\n[Chorus]\\nはんだづけは　たのしいよ\\nつながってゆく　きみとぼく\\nチカッて光る　その一瞬\\n世界と世界が　手をつなぐ\\nはんだづけは　たのしいよ\\n失敗だって　笑えるよ\\n曲がった線も　まがまがのまま\\nきっとどこかで　役に立つ\\n\\n[Verse 2]\\n古いラジオを　ひらいてさ\\n誰かの時間が　見えてくる\\n消えかけていた　音の道\\n一本ずつまた　つないでゆくんだ\\n\\n[Chorus]\\nはんだづけは　たのしいよ\\nつながってゆく　きのうあした\\nチリッて鳴いた　あの匂いも\\n胸のどこかを　あたためる\\nはんだづけは　たのしいよ\\nうまくいかない　夜もある\\nでもこの手で　なおせるものが\\nひとつあるだけで　うれしくなる",
+          "gpt_description_prompt": "はんだづけはたのしいよ,piano ballad",
+          "type": "gen",
+          "duration": 194.88,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-07T21:56:56.470Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "ballad, singer-songwriter, piano-driven",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 39
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "はんだづけはたのしいよ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "dfef03e9-a543-43fd-87c4-0a2cb56812ab",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/dfef03e9-a543-43fd-87c4-0a2cb56812ab.mp3",
+        "image_url": "image/image_dfef03e9-a543-43fd-87c4-0a2cb56812ab.jpeg",
+        "image_large_url": "image_large/image_large_dfef03e9-a543-43fd-87c4-0a2cb56812ab.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Warm piano ballad, gentle swing feel, male vocals. Simple close-mic upright piano with soft pedal and subtle room reverb; verses stay intimate and conversational, chorus grows with richer chords and delicate string pad. Light vocal stacks on the hook for a cozy, singalong feel, ending on a tender rubato slowdown., ballad",
+          "prompt": "[Verse 1]\\n小さな机の　はしっこで\\nこぼれたハンダが　丸くなる\\n指先すこし　こげたけど\\nなんだか今日は　うまくいきそうだ\\n\\n[Chorus]\\nはんだづけは　たのしいよ\\nつながってゆく　きみとぼく\\nチカッて光る　その一瞬\\n世界と世界が　手をつなぐ\\nはんだづけは　たのしいよ\\n失敗だって　笑えるよ\\n曲がった線も　まがまがのまま\\nきっとどこかで　役に立つ\\n\\n[Verse 2]\\n古いラジオを　ひらいてさ\\n誰かの時間が　見えてくる\\n消えかけていた　音の道\\n一本ずつまた　つないでゆくんだ\\n\\n[Chorus]\\nはんだづけは　たのしいよ\\nつながってゆく　きのうあした\\nチリッて鳴いた　あの匂いも\\n胸のどこかを　あたためる\\nはんだづけは　たのしいよ\\nうまくいかない　夜もある\\nでもこの手で　なおせるものが\\nひとつあるだけで　うれしくなる",
+          "gpt_description_prompt": "はんだづけはたのしいよ,piano ballad",
+          "type": "gen",
+          "duration": 198.24,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-07T21:56:56.469Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "ballad, singer-songwriter, piano-driven",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 40
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "はんだづけブルーズ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "9c3902b4-96ab-4186-bf73-5d5c9fac6dbc",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/9c3902b4-96ab-4186-bf73-5d5c9fac6dbc.mp3",
+        "image_url": "image/image_9c3902b4-96ab-4186-bf73-5d5c9fac6dbc.jpeg",
+        "image_large_url": "image_large/image_large_9c3902b4-96ab-4186-bf73-5d5c9fac6dbc.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow, smoky Japanese blues in 12/8, male vocals with a playful croon. Clean tube-amp guitar bends around the vocal, walking bass and brushed snare shuffle steady underneath. Harmonica drops in for call-and-response phrases between lines; organ pads swell gently in the chorus. Dynamic builds slightly each hook, ending with a laid-back, tongue-in-cheek vamp., blues",
+          "prompt": "[Verse 1]\\n朝の机に　基板ひとつ\\nコテの先っちょ　銀色に光る\\nこわごわあてたら　煙がゆらぐ\\nちょっと焦がして　指もあつい\\n\\n[Chorus]\\nはんだづけは　たのしいよ\\nうまくいかなくても　おもしろい\\nついたり　とれたり　またやりなおし\\nつぎの一滴で　世界がつながる\\n\\n[Verse 2]\\n部品まちがえて　やりなおし三回\\n配線ぐちゃぐちゃ　迷路みたい\\nでもパチッと光る　LEDひとつ\\nそれだけで今日は　勝ちだと思う\\n\\n[Chorus]\\nはんだづけは　たのしいよ\\n手さきふるえたって　かまわない\\nちいさな点々で　夢をならべて\\n煙のむこうに　できあがる未来\\n\\n[Bridge]\\nやけどのあとを　さわりながら\\nこの失敗も　たからものだ\\nうまくつながらない日もあるけど\\n明日はきっと　きれいに流れる\\n\\n[Chorus]\\nはんだづけは　たのしいよ\\n机のうえが　工場になる\\nついたり　とれたり　またやりなおし\\n笑いながらいこう　はんだづけブルーズ",
+          "gpt_description_prompt": "はんだづけはたのしいよ,blues",
+          "type": "gen",
+          "duration": 219.12,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-07T21:56:35.602Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "blues, Japanese blues, 12/8 shuffle, harmonica-led blues",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 41
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "はんだづけブルーズ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "8f97a17f-cc70-40e6-b3f6-aeb926a88173",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/8f97a17f-cc70-40e6-b3f6-aeb926a88173.mp3",
+        "image_url": "image/image_8f97a17f-cc70-40e6-b3f6-aeb926a88173.jpeg",
+        "image_large_url": "image_large/image_large_8f97a17f-cc70-40e6-b3f6-aeb926a88173.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow, smoky Japanese blues in 12/8, male vocals with a playful croon. Clean tube-amp guitar bends around the vocal, walking bass and brushed snare shuffle steady underneath. Harmonica drops in for call-and-response phrases between lines; organ pads swell gently in the chorus. Dynamic builds slightly each hook, ending with a laid-back, tongue-in-cheek vamp., blues",
+          "prompt": "[Verse 1]\\n朝の机に　基板ひとつ\\nコテの先っちょ　銀色に光る\\nこわごわあてたら　煙がゆらぐ\\nちょっと焦がして　指もあつい\\n\\n[Chorus]\\nはんだづけは　たのしいよ\\nうまくいかなくても　おもしろい\\nついたり　とれたり　またやりなおし\\nつぎの一滴で　世界がつながる\\n\\n[Verse 2]\\n部品まちがえて　やりなおし三回\\n配線ぐちゃぐちゃ　迷路みたい\\nでもパチッと光る　LEDひとつ\\nそれだけで今日は　勝ちだと思う\\n\\n[Chorus]\\nはんだづけは　たのしいよ\\n手さきふるえたって　かまわない\\nちいさな点々で　夢をならべて\\n煙のむこうに　できあがる未来\\n\\n[Bridge]\\nやけどのあとを　さわりながら\\nこの失敗も　たからものだ\\nうまくつながらない日もあるけど\\n明日はきっと　きれいに流れる\\n\\n[Chorus]\\nはんだづけは　たのしいよ\\n机のうえが　工場になる\\nついたり　とれたり　またやりなおし\\n笑いながらいこう　はんだづけブルーズ",
+          "gpt_description_prompt": "はんだづけはたのしいよ,blues",
+          "type": "gen",
+          "duration": 479.4,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-07T21:56:35.602Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "blues, Japanese blues, 12/8 shuffle, harmonica-led blues",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 42
     }
   ],
   "image_url": "https://cdn2.suno.ai/image_3be738dd-44ee-4655-9a1b-b441ae31e639.jpeg",
-  "num_total_results": 32,
+  "num_total_results": 42,
   "current_page": 1,
   "is_owned": false,
   "is_trashed": false,
@@ -4117,7 +5397,7 @@
   "skip_count": 0,
   "play_count": 0,
   "song_count": 0,
-  "total_duration": 6025.280000000001,
+  "total_duration": 8213.48,
   "is_discover_playlist": false,
   "clipIds": [
     "9d8707d4-0c1c-4f20-9fb5-4b926b873e8d",
@@ -4151,6 +5431,16 @@
     "fc398bd6-2043-4195-b818-6cc7c8f4730b",
     "475f7d0c-3af0-4c77-a148-8fe9ae255d4c",
     "52e177f7-a10c-4a42-b248-273368d3a76d",
-    "d8d439c6-dcf9-4d63-bf94-8acf77f59545"
+    "d8d439c6-dcf9-4d63-bf94-8acf77f59545",
+    "d33e669d-9149-4e0b-8e0b-c093bc361091",
+    "fa7e3ee1-8496-40c6-ab62-8ad78661d7b9",
+    "143d8be8-c11b-430d-9774-90ec27243b4d",
+    "2b4a8825-aa24-411e-bc5c-901674adb349",
+    "ad7cfd8c-dae6-40d6-8669-10a6dc613093",
+    "8d260caf-6dc2-4530-b930-fa6de20383de",
+    "706821e1-5c27-41f5-a60b-65f16c3bcec4",
+    "dfef03e9-a543-43fd-87c4-0a2cb56812ab",
+    "9c3902b4-96ab-4186-bf73-5d5c9fac6dbc",
+    "8f97a17f-cc70-40e6-b3f6-aeb926a88173"
   ]
 }
